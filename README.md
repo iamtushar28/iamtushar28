@@ -7,27 +7,27 @@ Welcome to my GitHub profile! I am Tushar, a passionate web developer currently 
 - **Location:** Koyana Nagar, Satara, Maharashtra
 - **Education:** B.Tech in Computer Science and Engineering (Graduating in 2026)
 - **Languages:** Marathi (Native), Hindi, English
-- **Interests:** Web Development, Data Science.
+- **Interests:** Web Development, App Developement.
 
 ## Skills
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, AJAX, jQuery.
 - **Backend:** PHP, Django.
-- **Database:** MySQL
-- **Tools & Platforms:** Git, GitHub, Internshala Training
+- **Database:** MySQL, Sqlite.
+- **Tools & Platforms:** Git, GitHub, Internshala Training, VS code.
 
 ## Projects
 
-### Food Delivery Web Application
-A simple yet functional food delivery app created with PHP, jQuery, and AJAX. Features include add to cart, admin dashboard, order management, and short descriptions for food items.
+### Previous Year Question Paper Web Application
+PYQ is a full-stack web application designed to provide students with easy access to a comprehensive collection of previous year question papers. Built with a modern tech stack including HTML, CSS, Tailwind, AJAX, jQuery, and Python Django, thsi web app ensures a seamless and efficient user experience.
 
 ## Current Goals
 
-- Achieving proficiency in PHP Django and JavaScript backend technologies.
+- Achieving proficiency in PHP, Python and JavaScript backend technologies.
 - Developing a portfolio website to showcase my projects and skills.
 - Seeking part-time work during college holidays.
 
-Feel free to explore my repositories to see my work and contributions. I am eager to connect, collaborate, and learn more about web development and data science.
+Feel free to explore my repositories to see my work and contributions. I am eager to connect, collaborate, and learn more about web development and App developement.
 
 ## Contact
 
