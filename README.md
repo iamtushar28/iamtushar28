@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I am Tushar, passionate and innovative Web Develop
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, AJAX, jQuery.
 - **Backend:** PHP, Django.
 - **Database:** MySQL, Sqlite.
-- **Tools & Platforms:** Git, GitHub, Internshala Training, VS code.
+- **Tools & Platforms:** Git, GitHub, VS code.
 
 ## Projects
 
