@@ -1,6 +1,6 @@
 # Tushar Pandurang Suryawanshi
 
-Welcome to my GitHub profile! I am Tushar, passionate and innovative Web Developer with a strong foundation in HTML, CSS, Tailwind, Bootstrap, JavaScript, jQuery, AJAX, PHP, and Django. Proven ability to create dynamic and user-friendly web applications. Recently developed a full-stack web application, CampusQuest, a comprehensive platform for students to access and contribute previous year question papers. Possess strong problem-solving skills and a keen eye for detail, with a focus on delivering high-quality, scalable, and maintainable code. Seeking to leverage my skills and experience to contribute to a forward-thinking team..
+Welcome to my GitHub profile! I am Tushar, passionate and innovative Web Developer with a strong foundation in HTML, CSS, Tailwind, Bootstrap, JavaScript, jQuery, AJAX, PHP, and Django. Proven ability to create dynamic and user-friendly web applications. Recently developed a full-stack web application. Possess strong problem-solving skills and a keen eye for detail, with a focus on delivering high-quality, scalable, and maintainable code. Seeking to leverage my skills and experience to contribute to a forward-thinking team..
 
 ## About Me
 
