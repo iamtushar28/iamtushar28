@@ -24,7 +24,6 @@ PYQ is a full-stack web application designed to provide students with easy acces
 ## Current Goals
 
 - Achieving proficiency in PHP, Python and JavaScript backend technologies.
-- Developing a portfolio website to showcase my projects and skills.
 - Seeking part-time work during college holidays.
 
 Feel free to explore my repositories to see my work and contributions. I am eager to connect, collaborate, and learn more about web development and App developement.
