@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am Tushar, passionate and innovative Web Develop
 
 ## Current Goals
 
-- Achieving proficiency in PHP, Python and JavaScript backend technologies.
+- Achieving proficiency in node.js, express js, php, python backend technologies.
 - Seeking part-time work during college holidays.
 Feel free to explore my repositories to see my work and contributions. I am eager to connect, collaborate, and learn more about web development and App developement.
 
