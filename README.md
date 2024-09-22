@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I am Tushar, passionate and innovative Web Develop
 ## Skills
 
 - **Frontend:** HTML, CSS, JavaScript, REACT JS, Bootstrap, Tailwind CSS, AJAX, jQuery.
-- **Backend:** PHP, Django.
-- **Database:** MySQL, Sqlite.
+- **Backend:** NODE.JS, EXPRESS, PHP, Django.
+- **Database:** MONGODB, MySQL, Sqlite.
 - **Tools & Platforms:** Git, GitHub, VS code.
 
 ## Current Goals
@@ -24,7 +24,7 @@ Feel free to explore my repositories to see my work and contributions. I am eage
 
 ## Contact
 
-- **Email:** iamtushar28@outlook.com
+- **Email:** iamtushar2830@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/tushar-suryawanshi-599806299
 
 Thank you for visiting my GitHub profile!
