@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am Tushar, passionate and innovative Web Develop
 
 ## Skills
 
-- **Frontend:** HTML, CSS, JavaScript, REACT JS, Bootstrap, Tailwind CSS, AJAX, jQuery.
+- **Frontend:** HTML, JavaScript, REACT, NEXTJS, Tailwind CSS.
 - **Backend:** NODE.JS, EXPRESS, PHP, Django.
 - **Database:** MONGODB, MySQL, Sqlite.
 - **Tools & Platforms:** Git, GitHub, VS code.
