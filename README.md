@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/iamtushar28?style=social)](https://github.com/iamtushar28)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://tushar28.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tushar-suryawanshi-599806299)  
 
 ---
 
@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
@@ -46,8 +47,7 @@ Showcasing my **skills, projects, and achievements** with a modern UI.
 ## 🔥 What I'm Currently Working On  
 
 - 🚀 Enhancing my **Next.js Blog** with backend features  
-- 🛠️ Developing a **full-stack MERN application**  
-- 📚 Exploring **advanced TypeScript & React performance optimization**  
+- 📚 Exploring **advanced frontend development using Next.js**  
 
 ---
 
@@ -60,16 +60,7 @@ Showcasing my **skills, projects, and achievements** with a modern UI.
 
 ## 📫 Connect with Me  
 
-🔗 **GitHub:** [iamtushar28](https://github.com/iamtushar28)  
-🔗 **Portfolio:** [tushar28.vercel.app](https://tushar28.vercel.app)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)  
 📩 **Email:** tusharsuryawanshi2232@gmail.com  
-
----
-
-### 💡 Fun Fact  
-- I love solving **JavaScript puzzles** and exploring **UI/UX design trends**.  
-- I'm a huge fan of **dark mode everything!** 😎  
 
 ---
 
