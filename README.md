@@ -35,10 +35,10 @@
 ## 📌 Projects  
 
 ### 🚀 [Talk2DB | AI Powered DB automation](https://talk2db.vercel.app/)  
-**1️⃣ language queries into accurate database commands using LLMs.**
-**2️⃣ Added secure, real-time execution for 2 major databases (MySQL & MongoDB), reducing query execution steps by 80%.**
-**3️⃣ Implemented dynamic schema-aware context injection, enabling 100% valid SQL/MQL generation for any selected database.**
-**4️⃣ Built a one-click query execution system with tabular + visual outputs (pie/bar) and CSV export, cutting data analysis time by 60–70% compared to manual MySQL querying.**  
+- **language queries into accurate database commands using LLMs.**
+- **Added secure, real-time execution for 2 major databases (MySQL & MongoDB), reducing query execution steps by 80%.**
+- **Implemented dynamic schema-aware context injection, enabling 100% valid SQL/MQL generation for any selected database.**
+- **Built a one-click query execution system with tabular + visual outputs (pie/bar) and CSV export, cutting data analysis time by 60–70% compared to manual MySQL querying.**  
 
 🔹 **More on my [GitHub Repositories](https://github.com/iamtushar28?tab=repositories)**  
 
