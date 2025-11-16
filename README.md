@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tushar Suryawanshi!  
 
-### 🚀 Frontend Developer | Full Stack JavaScript Developer  
+### 🧑‍💻 Software Engineer | Full Stack Developer  
 
 [![GitHub followers](https://img.shields.io/github/followers/iamtushar28?style=social)](https://github.com/iamtushar28)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://tushar28.vercel.app)  
