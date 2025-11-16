@@ -34,14 +34,11 @@
 
 ## 📌 Projects  
 
-### 🚀 [Next.js Blog Website](https://dev-iota-one.vercel.app/)  
-A sleek, **responsive** blog platform built with **Next.js**, inspired by Dev.to.  
-✅ **Pixel-perfect UI**  
-✅ **Seamless social logins**  
-✅ **Fast, mobile-friendly, and scalable**  
-
-### 🌐 [Portfolio Website](https://tushar28.vercel.app/)  
-Showcasing my **skills, projects, and achievements** with a modern UI.  
+### 🚀 [Talk2DB | AI Powered DB automation](https://talk2db.vercel.app/)  
+**1️⃣ language queries into accurate database commands using LLMs.**
+**2️⃣ Added secure, real-time execution for 2 major databases (MySQL & MongoDB), reducing query execution steps by 80%.**
+**3️⃣ Implemented dynamic schema-aware context injection, enabling 100% valid SQL/MQL generation for any selected database.**
+**4️⃣ Built a one-click query execution system with tabular + visual outputs (pie/bar) and CSV export, cutting data analysis time by 60–70% compared to manual MySQL querying.**  
 
 🔹 **More on my [GitHub Repositories](https://github.com/iamtushar28?tab=repositories)**  
 
@@ -49,15 +46,16 @@ Showcasing my **skills, projects, and achievements** with a modern UI.
 
 ## 🔥 What I'm Currently Working On  
 
-- 🚀 Enhancing my **Next.js Blog** with backend features  
-- 📚 Exploring **advanced frontend development using Next.js**  
+- 🚀 Enhancing my **Talk2DB | AI Powered DB automation** with more features  
+- 📚 Exploring **advanced full stack development**  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtushar28&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtushar28&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=iamtushar28&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iamtushar28&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamtushar28&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 ---
 
